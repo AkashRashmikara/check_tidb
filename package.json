@@ -4,8 +4,8 @@
     "description": "connect-tidb-with-aws",
     "main": "app.js",
     "scripts": {
-        "test": "npm start",
-        "start": "node app.js"
+        "start": "node app.js",
+        "test": "npm start"
     },
     "keywords": [
         "Node.js",
